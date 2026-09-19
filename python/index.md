@@ -34,7 +34,7 @@ which is why each lesson ends with work to do before the next.
 Lesson 4 ends by opening the real strain data recorded on 14 September 2015 —
 from a file on the disk, with no network involved — and plotting it. It does
 not analyse it: recovering a signal needs a model of the noise and a model of
-the signal, and those are built in Part 2. Lesson 9 is where that work starts.
+the signal, and those are built in Part 2. Lesson 11 is where that work starts.
 
 ## If you already know Python
 

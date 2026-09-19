@@ -23,16 +23,18 @@ report it, don't work around it.
 The course is two parts, each with its own index:
 
 - [`python/index.md`](python/index.md) — Part 1, the Python primer (Lessons 1–4)
-- `labs/index.md` — Part 2, the analysis labs, which appear as they are released
+- `labs/index.md` — Part 2, the analysis labs (Lessons 5–17), which appear as
+  they are released
 
 Start at Part 1 if you have never programmed, or have only used Python a
 little. If you already write Python comfortably, `python/index.md` tells you
 exactly which parts of the primer to skim and which to still read in full —
 read that page's "If you already know Python" section before skipping ahead.
 
-The notebook file names (`P1_...`, `H02_...`) do not match the lesson numbers
-1–14. Always work from the tables in the index pages or the README, not from
-the file names.
+The notebook file names (`P1_...`, `H01_...`) do not match the lesson numbers
+1–17: the `H` numbers run in the same order but start again at one, so lesson 5
+is `H01`. Always work from the tables in the index pages or the README, not
+from the file names.
 
 ## 3. Work through a lesson
 
@@ -40,8 +42,8 @@ Each notebook is meant to be run, not read. For every lesson:
 
 1. Open the notebook and run the cells from the top, in order.
 2. Where the notebook poses a task, write your answer in the cell left for
-   it. Lessons 5–7 show a worked answer under the question so you can check
-   your tools; from Lesson 8 on, nothing is printed for you — you check your
+   it. Lessons 5–9 show a worked answer under the question so you can check
+   your tools; from Lesson 10 on, nothing is printed for you — you check your
    own answer against what the task asks you to find.
 3. Change the parameters at the top of the notebook (they are called out for
    this reason) and re-run. Watching something break, and working out why,
