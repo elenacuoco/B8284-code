@@ -89,5 +89,5 @@ LaTeX between `$` or `$$`, and references as ordinary text at the point where
 they are used.
 
 Every formula names its symbols where it first appears. Every lesson that reads
-data reads it from `labs/data/`. Every lesson ends by saying which packages it
+data reads it from `demo/data/`. Every lesson ends by saying which packages it
 used.
