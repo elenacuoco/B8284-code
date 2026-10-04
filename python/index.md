@@ -15,8 +15,8 @@ plotting a chirp before you have written a `for` loop over a list of names.
 |---|---|---|
 | [`P1_getting_started.ipynb`](P1_getting_started.ipynb) | What Python is and what is running; variables, types, conversion, operators; reading an error message; your first plot | 1 |
 | [`P2_control_flow_functions.ipynb`](P2_control_flow_functions.ipynb) | Booleans and logic; `if`/`elif`/`else`; `for` and `while`, `break` and `continue`; functions, parameters, defaults, scope, docstrings; `try`/`except` | 2, 3 |
-| [`P3_data_structures_numpy.ipynb`](P3_data_structures_numpy.ipynb) | Lists and their methods, tuples, sets, dictionaries, nesting; then NumPy arrays, slicing, masks, **vectorised thinking** | 4, 7 |
-| [`P4_scientific_stack.ipynb`](P4_scientific_stack.ipynb) | Text, CSV and JSON files; modules, imports and `pip`; HDF5 and frame files; Matplotlib, SciPy and pandas; a real strain file opened and plotted | 5, 7 |
+| [`P3_data_structures_numpy.ipynb`](P3_data_structures_numpy.ipynb) | Lists and their methods, tuples, sets, dictionaries, nesting; then NumPy arrays, slicing, masks, **vectorised thinking** | 4 |
+| [`P4_scientific_stack.ipynb`](P4_scientific_stack.ipynb) | Text, CSV and JSON files; modules, imports and `pip`; HDF5 and frame files; Matplotlib, SciPy and pandas; a real strain file opened and plotted | 5 |
 
 Each session condenses the modules named in the last column, which are in
 `reference/` with their examples and exercises. The sessions are where the
@@ -57,7 +57,7 @@ the signal, which are Parts V and VI. That work belongs to the laboratories and
 
 ## Self-study reference
 
-`reference/` holds the examples and exercises of the seven modules the
+`reference/` holds the examples and exercises of the five modules the
 sessions are condensed from, with solutions beside them. Use it if
 you are new to Python or as a lookup when something in a lab does not behave.
 
@@ -67,17 +67,11 @@ you are new to Python or as a lookup when something in a lab does not behave.
 | 2 | Control flow — booleans, `if`/`elif`/`else`, loops, `break`/`continue` |
 | 3 | Functions and error handling — parameters, scope, docstrings, `try`/`except` |
 | 4 | Data structures — lists, tuples, sets, dictionaries, nesting |
-| 5 | Files and libraries — text, CSV, JSON and **HDF5/GWF for GW data** |
-| 7 | The scientific stack — NumPy, SciPy, pandas, Matplotlib, Plotly |
-| 8 | A mini-project — visualising and filtering a black hole merger |
-
-Module 5's HDF5 and frame file material is gravitational wave
-specific and worth reading even if the rest is familiar to you. Module 8 is the
-same GW150914 analysis you will meet in `labs/H02`, at a gentler pace.
+| 5 | Files and libraries — text, CSV and JSON files; modules and imports |
 
 ## If you already know Python
 
-Skim `P1`–`P3`, do `P4` in full and read Module 5 on HDF5 and GWF files. The
+Skim `P1`–`P3` and do `P4` in full, for the HDF5 and frame files. The
 one habit worth checking you have is **vectorised thinking** — a Python loop
 over 4096 samples per second of strain data will be the slowest thing in your
 project and NumPy makes it unnecessary. If that sentence is already obvious to
