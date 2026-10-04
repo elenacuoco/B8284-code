@@ -49,6 +49,10 @@ Each notebook is meant to be run, not read. For every notebook:
 Move to the next notebook only once the current one's cells all run without
 errors and its tasks are answered.
 
+One notebook is yours alone: `sandbox.ipynb`, at the top of the repository.
+Nothing in the course reads it. Try a line there before it goes into an answer.
+A new codespace brings it back empty, so commit it if you want to keep it.
+
 ## 4. What "done" looks like for a notebook
 
 - Every cell has been run (no cell left with an old, stale, or missing
