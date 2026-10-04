@@ -1,7 +1,8 @@
 """
 gwcourse_palette.py
 ===================
-Central colour palette for "Python for Gravitational Waves".
+Central colour palette for the "Gravitational Wave Physics" course (B8284,
+Laurea Magistrale in Physics, Alma Mater Studiorum -- Bologna).
 
 Every figure in the course is drawn from these six colour families and from
 nothing else, so that a plot made for one lesson sits beside a plot made for
@@ -62,24 +63,24 @@ P = {
     "BLUE_PALE":    "#EEF2FB",
 
     # Amber
-    "AMBER_DARK":   "#7A5214",
-    "AMBER":        "#A97420",
-    "AMBER_MID":    "#C99A45",
+    "AMBER_DARK":   "#714A01",
+    "AMBER":        "#A06B00",
+    "AMBER_MID":    "#C59535",
     "AMBER_LIGHT":  "#EBD3A0",
     "AMBER_PALE":   "#FBF4E6",
 
     # Teal
-    "TEAL_DARK":    "#0E4A52",
-    "TEAL":         "#1A6B75",
-    "TEAL_MID":     "#4A98A2",
-    "TEAL_LIGHT":   "#A9D2D8",
+    "TEAL_DARK":    "#0E3D41",
+    "TEAL":         "#1E5D61",
+    "TEAL_MID":     "#519093",
+    "TEAL_LIGHT":   "#AED1D3",
     "TEAL_PALE":    "#EDF6F7",
 
     # Plum
-    "PLUM_DARK":    "#4A2452",
-    "PLUM":         "#7B3D86",
-    "PLUM_MID":     "#A067A9",
-    "PLUM_LIGHT":   "#D6B9DC",
+    "PLUM_DARK":    "#422951",
+    "PLUM":         "#8C61A2",
+    "PLUM_MID":     "#A37CB6",
+    "PLUM_LIGHT":   "#CFBCDB",
     "PLUM_PALE":    "#F7F0F9",
 
     # Neutrals
