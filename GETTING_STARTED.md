@@ -26,6 +26,12 @@ The course is two parts, each with its own index:
 - `labs/index.md` — the laboratories, H01 to H13, which appear as they are
   released
 
+A laboratory published after you created your codespace is not in it yet.
+Open the terminal in the codespace and pull it. If you have never committed,
+`git pull` is enough. If you have committed, your codespace is linked to your
+own fork and no longer follows this repository, so run `git pull upstream main`
+instead.
+
 Start at Part 1 if you have never programmed, or have only used Python a
 little. If you already write Python comfortably, `python/index.md` tells you
 exactly which parts of the primer to skim and which to still read in full —
