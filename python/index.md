@@ -23,10 +23,9 @@ Each session condenses the modules named in the last column, which are in
 material is taught with gravitational wave data as the setting; the modules are
 where the same ideas are drilled at length.
 
-They run **one a week, alongside the first lectures**, so that each session has
-a week of practice behind it before the next one arrives. The dates are in the
-teaching schedule; these pages sit together at the end of the notes because
-that is where they are easiest to come back to.
+They are taught **in order, before the first laboratory**, each one building on
+the practice done after the one before. These pages sit together at the end of
+the notes because that is where they are easiest to come back to.
 
 The fourth session ends by opening the real strain data from 14 September 2015
 — from a file on the disk, with no network involved — and plotting it. It does
