@@ -58,6 +58,9 @@ P1 to P4, assuming nothing.
 **The laboratories**, H02 to H11, are published here on the day they
 are taught. None is out yet.
 
+**Your own notebook**: [`sandbox.ipynb`](sandbox.ipynb). Nothing in the
+course reads it. Try things there before they go into an answer.
+
 ## Conventions
 
 The notebooks are plain Jupyter markdown: no build step, no static site, no
