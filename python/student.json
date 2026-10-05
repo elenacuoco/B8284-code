@@ -1,0 +1,12 @@
+{
+  "name": "Anna",
+  "year": 2,
+  "courses": [
+    "maths",
+    "physics"
+  ],
+  "marks": {
+    "maths": 27,
+    "physics": 30
+  }
+}
