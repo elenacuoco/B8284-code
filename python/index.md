@@ -1,13 +1,15 @@
 # Python Primer
 
-Five sessions, starting from nothing. No prior programming is assumed.
+Four sessions and two extras, starting from nothing. No prior programming
+is assumed.
 
 The aim is narrow and practical: get you to the point where you can read, run
 and change a notebook that somebody else wrote. We are not teaching software
 engineering and we are not teaching Python for its own sake. The examples are
 the plainest ones: the marks of a class, the temperature through a day and a
 tone under a hiss that you can hear. Numbers that are not plain examples are
-said to be made up.
+said to be made up. The last session, P4, opens the course's own
+data.
 
 
 ## The sessions
@@ -16,8 +18,10 @@ said to be made up.
 |---|---|---|
 | [`P1_getting_started.ipynb`](P1_getting_started.ipynb) | What Python is and what is running; variables, types, conversion, operators; reading an error message; your first plot | 1 |
 | [`P2_control_flow_functions.ipynb`](P2_control_flow_functions.ipynb) | Booleans and logic; `if`/`elif`/`else`; `for` and `while`, `break` and `continue`; functions, parameters, defaults, scope, docstrings; `try`/`except`; the marks of a class and a sum of money that doubles | 2, 3 |
-| [`P3_data_structures_numpy.ipynb`](P3_data_structures_numpy.ipynb) | Lists and their methods, tuples, sets, dictionaries, nesting; then NumPy arrays, a day of temperatures, sound as a time series, slicing, masks, **vectorised thinking** | 4 |
-| [`P4_scientific_stack.ipynb`](P4_scientific_stack.ipynb) | Text, CSV and JSON files; modules, imports and `pip`; HDF5; Matplotlib, SciPy and pandas; a class register, a table of marks, a week of temperatures, a tone under a hiss and a straight line through yearly means | 5 |
+| [`P3_data_structures_numpy.ipynb`](P3_data_structures_numpy.ipynb) | Lists and dictionaries, with the arms of the detectors; tuples and sets; NumPy arrays, a day of temperatures, the loop against the array, slicing, masks, **vectorised thinking**; labelled plots; a tone under noise | 4 |
+| [`P4_scientific_stack.ipynb`](P4_scientific_stack.ipynb) | Text and CSV files with pandas; JSON; HDF5; SciPy and a straight line through points; modules and imports; the course's strain file and catalogue of events; restart and run all and `assert`; git, the minimum | 5 |
+
+Two more notebooks are extras, for anyone who wants to go further: [`P5_code_you_can_trust.ipynb`](P5_code_you_can_trust.ipynb) (names, constants, small functions and `assert` checks; git; a module, then a package with a test) and [`P6_primer_on_the_course_data.ipynb`](P6_primer_on_the_course_data.ipynb) (the same Python on the numbers of the course, with a small module). What they teach is in P3 and P4 in short form.
 
 Each session condenses the modules named in the last column, which are in
 `reference/` with their examples and exercises. The modules are where the same
@@ -63,8 +67,8 @@ you are new to Python or as a lookup when something does not behave.
 
 ## If you already know Python
 
-Skim `P1`–`P3` and do `P4` in full, for HDF5. The one
+Skim `P1`–`P3` and do `P4` in full, for HDF5 and the course's data. The one
 habit worth checking you have is **vectorised thinking**. A Python loop over a
 long series of numbers will be the slowest thing in your project and NumPy
-makes it unnecessary. If that sentence is already obvious to you, go straight
-to `P5`.
+makes it unnecessary. If that sentence is already obvious to you, start
+at `P4`.
