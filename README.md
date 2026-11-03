@@ -63,7 +63,7 @@ they are taught. The names are the course's own, H01 to H13.
 |---|---|
 | `H01` | [`labs/H01_first_waveform.ipynb`](labs/H01_first_waveform.ipynb) — Your first waveform |
 | `H02` | [`labs/H02_linear_systems.ipynb`](labs/H02_linear_systems.ipynb) — Linear systems: the oscillator a detector is made of |
-| `H03` | [`labs/H03_timeseries_fourier.ipynb`](labs/H03_timeseries_fourier.ipynb) — Correlation and the power spectral density |
+| `H03` | [`labs/H03_timeseries_fourier.ipynb`](labs/H03_timeseries_fourier.ipynb) — Random processes: the noise of a mirror on a spring |
 
 **Your own notebook**: [`sandbox.ipynb`](sandbox.ipynb). Nothing in the
 course reads it. Try things there before they go into an answer.
