@@ -83,6 +83,10 @@ P = {
     "PLUM_LIGHT":   "#CFBCDB",
     "PLUM_PALE":    "#F7F0F9",
 
+    # Green: the highlight on the interferometer drawings of the decks
+    "GREEN_DARK":   "#14473A",
+    "GREEN":        "#1E6B57",
+
     # Neutrals
     "INK":          "#1A1A1A",
     "GREY_DARK":    "#4A4A4A",

@@ -63,7 +63,8 @@ they are taught. The names are the course's own, H01 to H13.
 |---|---|
 | `H01` | [`labs/H01_first_waveform.ipynb`](labs/H01_first_waveform.ipynb) — Your first waveform |
 | `H02` | [`labs/H02_linear_systems.ipynb`](labs/H02_linear_systems.ipynb) — Linear systems: the oscillator a detector is made of |
-| `H03` | [`labs/H03_timeseries_fourier.ipynb`](labs/H03_timeseries_fourier.ipynb) — Random processes: the noise of a mirror on a spring |
+| `H03` | [`labs/H03_time_series.ipynb`](labs/H03_time_series.ipynb) — Time series: lecture 9 in examples |
+| `H03` | [`labs/H03_homework_mirror_noise.ipynb`](labs/H03_homework_mirror_noise.ipynb) — Homework: the noise of a mirror on a spring |
 
 **Your own notebook**: [`sandbox.ipynb`](sandbox.ipynb). Nothing in the
 course reads it. Try things there before they go into an answer.
