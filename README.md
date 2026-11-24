@@ -71,6 +71,9 @@ they are taught. The names are the course's own, H01 to H10.
 | `H05` | [`labs/H05_home_signal_processing.ipynb`](labs/H05_home_signal_processing.ipynb) — At home: filters and the time–frequency plane |
 | `H06` | [`labs/H06_matched_filter.ipynb`](labs/H06_matched_filter.ipynb) — The matched filter on real data and simulated glitches |
 | `H07` | [`labs/H07_psd_and_whitening.ipynb`](labs/H07_psd_and_whitening.ipynb) — The PSD and whitening: a practical session |
+| `H08` | [`labs/H08_parameter_estimation.ipynb`](labs/H08_parameter_estimation.ipynb) — Parameter estimation: statistical error and instrumental effects |
+| `H09` | [`labs/H09_gwtc_population.ipynb`](labs/H09_gwtc_population.ipynb) — The catalog as a population of events |
+| `H10` | [`labs/H10_cnn_chirp_detection.ipynb`](labs/H10_cnn_chirp_detection.ipynb) — A convolutional network and the matched filter compared |
 
 **Your own notebook**: [`sandbox.ipynb`](sandbox.ipynb). Nothing in the
 course reads it. Try things there before they go into an answer.

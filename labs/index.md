@@ -14,3 +14,6 @@ The laboratories are published on the day they are taught.
 | `H05` | [At home: filters and the time–frequency plane](H05_home_signal_processing.ipynb) |
 | `H06` | [The matched filter on real data and simulated glitches](H06_matched_filter.ipynb) |
 | `H07` | [The PSD and whitening: a practical session](H07_psd_and_whitening.ipynb) |
+| `H08` | [Parameter estimation: statistical error and instrumental effects](H08_parameter_estimation.ipynb) |
+| `H09` | [The catalog as a population of events](H09_gwtc_population.ipynb) |
+| `H10` | [A convolutional network and the matched filter compared](H10_cnn_chirp_detection.ipynb) |

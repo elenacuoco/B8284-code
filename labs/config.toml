@@ -9,6 +9,11 @@
 # The folder with the data files. It is relative to the folder of this file.
 dir = "data"
 
+[catalog]
+# The table of the events of the public catalogs, GWTC-1 to GWTC-5.0. It is
+# in the folder above and make_gwtc_events.py in that folder rebuilds it.
+file = "gwtc_events.csv"
+
 # One table for each event the course loads.
 #   gps   the GPS time of the merger (s), as listed by GWOSC
 #   H1, L1, V1   the file of the strain of that detector, in the folder above
